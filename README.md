@@ -1,32 +1,200 @@
-# food-Delivery-apps
-Developed a full-stack Food Delivery App that allows users to browse food items, manage their cart, and place orders online. Built a responsive interface using React.js and Tailwind CSS with backend API and database integration.
-<h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar522290&label=Profile%20views&color=0e75b6&style=flat" alt="sagar522290" /> </p>
+# 👋 Hi, I'm Sagar Kumar
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagar522290" alt="sagar522290" /></a> </p>
+### 💻 Full Stack Developer | MERN Stack Developer | Java Developer
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [food-Delivery](https://github.com/Sagar522290/food-Delivery-apps.git)
-
-- 💬 Ask me about **Full Stack Developer**
-
-- 📫 How to reach me **sagarkumar5222sagar@gmail.com**
-
-- ⚡ Fun fact **Learn**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sagar-kumar-a0234a384/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-kumar-a0234a384/" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Sagar522290">
+    <img src="https://komarev.com/ghpvc/?username=Sagar522290&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/Sagar522290?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sagar522290?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Sagar522290">
+    <img src="https://img.shields.io/github/stars/Sagar522290?label=Stars&style=flat" alt="GitHub Stars"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://linkedin.com/in/sagar-kumar-a0234a384/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sagar%20Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sagarkumar5222sagar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" alt="Gmail"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagar522290&show_icons=true&locale=en&layout=compact" alt="sagar522290" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar522290&show_icons=true&locale=en" alt="sagar522290" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar522290&" alt="sagar522290" /></p>
+## 👨‍💻 About Me
+
+I'm **Sagar Kumar**, an IT student and aspiring **Full Stack Developer** from India.
+
+I enjoy building responsive, scalable and user-friendly web applications using modern frontend and backend technologies.
+
+* 🎓 IT Student
+* 💻 Focused on **Full Stack Web Development**
+* ⚛️ Strong interest in **React.js & MERN Stack**
+* ☕ Learning and improving **Java & DSA**
+* 🚀 Currently building a **Food Delivery Application**
+* 🧠 Interested in problem solving and software development
+* 🌱 Always learning something new
+
+---
+
+## 🚀 What I'm Currently Working On
+
+### 🍔 Food Delivery Application
+
+A complete full-stack food delivery platform built using the **MERN Stack**.
+
+### Features
+
+* 🔐 User Authentication
+* 🍽️ Restaurant Management
+* 🍔 Food Management
+* 🛒 Shopping Cart
+* 📦 Order Management
+* 📍 Order Tracking
+* 🗺️ Live Location / Map
+* ⭐ Reviews & Ratings
+* 👨‍💼 Admin Dashboard
+* 📊 Reports & Analytics
+
+### Tech Stack
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JavaScript` `Tailwind CSS`
+
+🔗 **Repository:**
+https://github.com/Sagar522290/food-Delivery-apps
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+</p>
+
+### 🟢 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Sagar522290/food-Delivery-apps">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sagar522290&repo=food-Delivery-apps&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### 🍔 Food Delivery App
+
+**MERN Stack | React | Node.js | Express | MongoDB**
+
+A full-stack food delivery application with restaurant management, food items, cart, checkout, orders, tracking and admin functionality.
+
+🔗 https://github.com/Sagar522290/food-Delivery-apps
+
+---
+
+### 🔥 LPG Gas Distribution System
+
+**MERN Stack**
+
+A web application designed to manage LPG gas distribution, customers, bookings, orders and delivery operations.
+
+**Key concepts:**
+
+`Authentication` `CRUD` `REST API` `MongoDB` `React.js` `Node.js`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sagar522290&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar522290&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+
+</div>
+
+---
+
+# ⭐ GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sagar522290&theme=tokyonight" width="100%"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sagar522290&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sagar522290&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sagar522290&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+
+</div>
+
+---
+
+# 💻 GitHub Stats
+
+<div align="center">
+
+|                   📦 Repositories                   | ⭐ Stars | 🔥 Contributions | 👥 Followers |
+| :-------------------------------------------------: | :-----: | :--------------: | :----------: |
+| ![Repos](https://img.shields.io/github/repo-count/) |         |                  |              |
