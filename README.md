@@ -123,6 +123,10 @@ https://github.com/Sagar522290/food-Delivery-apps
 
 A full-stack food delivery application with restaurant management, food items, cart, checkout, orders, tracking and admin functionality.
 
+<div align="center">
+  <img src="frontend/src/assets/logo.png" alt="Food Delivery App Preview" width="240" />
+</div>
+
 🔗 https://github.com/Sagar522290/food-Delivery-apps
 
 ---

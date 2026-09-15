@@ -65,29 +65,29 @@ const Settings = () => {
 
         <div className="grid gap-4 md:grid-cols-2">
           {cards.map(({ title, description, icon: Icon, key, label }) => (
-            <div key={title} className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-              <div className="flex items-start justify-between gap-4">
-                <div className="flex items-center gap-3">
-                  <div className="flex h-11 w-11 items-center justify-center rounded-xl bg-orange-50 text-orange-500">
+            <div key={title} className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm sm:p-5">
+              <div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
+                <div className="flex min-w-0 items-start gap-3">
+                  <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-orange-50 text-orange-500">
                     <Icon size={20} />
                   </div>
-                  <div>
-                    <h2 className="text-lg font-bold text-slate-800">{title}</h2>
-                    <p className="text-sm text-slate-500">{description}</p>
+                  <div className="min-w-0">
+                    <h2 className="text-base font-bold text-slate-800 sm:text-lg">{title}</h2>
+                    <p className="mt-1 text-sm leading-5 text-slate-500">{description}</p>
                   </div>
                 </div>
 
                 <button
                   type="button"
                   onClick={() => toggle(key)}
-                  className={`relative inline-flex h-6 w-11 items-center rounded-full transition ${
+                  className={`relative inline-flex h-7 w-12 shrink-0 items-center rounded-full transition sm:h-6 sm:w-11 ${
                     settings[key] ? "bg-orange-500" : "bg-slate-200"
                   }`}
                   aria-label={label}
                 >
                   <span
-                    className={`inline-block h-4 w-4 rounded-full bg-white transition ${
-                      settings[key] ? "translate-x-6" : "translate-x-1"
+                    className={`inline-block h-5 w-5 rounded-full bg-white shadow-sm transition sm:h-4 sm:w-4 ${
+                      settings[key] ? "translate-x-6 sm:translate-x-6" : "translate-x-1"
                     }`}
                   />
                 </button>
@@ -96,23 +96,23 @@ const Settings = () => {
           ))}
         </div>
 
-        <div className="mt-6 rounded-2xl border border-slate-200 bg-white p-5 shadow-sm">
-          <div className="flex items-center justify-between gap-3">
-            <div>
-              <h3 className="text-lg font-bold text-slate-800">Refund Automation</h3>
-              <p className="text-sm text-slate-500">Automatically process eligible order refunds</p>
+        <div className="mt-6 rounded-2xl border border-slate-200 bg-white p-4 shadow-sm sm:p-5">
+          <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+            <div className="min-w-0 flex-1 pr-2">
+              <h3 className="text-base font-bold text-slate-800 sm:text-lg">Refund Automation</h3>
+              <p className="mt-1 text-sm leading-5 text-slate-500">Automatically process eligible order refunds</p>
             </div>
 
             <button
               type="button"
               onClick={() => toggle("autoRefund")}
-              className={`relative inline-flex h-6 w-11 items-center rounded-full transition ${
+              className={`relative inline-flex h-7 w-12 shrink-0 items-center rounded-full transition sm:h-6 sm:w-11 ${
                 settings.autoRefund ? "bg-orange-500" : "bg-slate-200"
               }`}
             >
               <span
-                className={`inline-block h-4 w-4 rounded-full bg-white transition ${
-                  settings.autoRefund ? "translate-x-6" : "translate-x-1"
+                className={`inline-block h-5 w-5 rounded-full bg-white shadow-sm transition sm:h-4 sm:w-4 ${
+                  settings.autoRefund ? "translate-x-6 sm:translate-x-6" : "translate-x-1"
                 }`}
               />
             </button>

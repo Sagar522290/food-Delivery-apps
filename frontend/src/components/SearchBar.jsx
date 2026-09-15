@@ -4,6 +4,7 @@ import {
   SlidersHorizontal,
   X,
 } from "lucide-react";
+import logo from "../assets/logo.png";
 
 const SearchBar = ({
   value,
@@ -12,7 +13,11 @@ const SearchBar = ({
   onFilter,
 }) => {
   return (
-    <div className="flex flex-col gap-2 sm:flex-row">
+    <div className="flex flex-col gap-2 sm:flex-row sm:items-center">
+      <div className="flex h-12 w-12 shrink-0 items-center justify-center overflow-hidden rounded-2xl border border-orange-100 bg-orange-50 shadow-sm">
+        <img src={logo} alt="Food delivery logo" className="h-full w-full object-cover" />
+      </div>
+
       {/* Search */}
       <div className="relative flex-1">
         <Search

@@ -31,12 +31,6 @@ const RestaurantCard = ({ restaurant }) => {
 
         <div className="absolute inset-0 bg-linear-to-t from-slate-900/30 via-transparent to-transparent" />
 
-        <div className="absolute left-3 top-3 flex items-center gap-2">
-          <span className="rounded-full bg-white/90 px-2.5 py-1 text-[10px] font-bold uppercase tracking-[0.18em] text-slate-700 backdrop-blur-sm">
-            Top rated
-          </span>
-        </div>
-
         {freeDelivery && (
           <span className="absolute bottom-3 left-3 rounded-full bg-white px-3 py-1 text-xs font-semibold text-emerald-600 shadow-md">
             Free Delivery

@@ -39,9 +39,6 @@ export default function RestaurantDetail() {
           <button className="flex h-10 w-10 items-center justify-center rounded-full bg-white/90 text-lg shadow-md backdrop-blur-sm transition hover:bg-white">
             ♡
           </button>
-          <button className="flex h-10 w-10 items-center justify-center rounded-full bg-white/90 text-lg shadow-md backdrop-blur-sm transition hover:bg-white">
-            ↗
-          </button>
         </div>
       </div>
 

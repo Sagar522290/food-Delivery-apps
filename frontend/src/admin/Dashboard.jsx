@@ -103,7 +103,7 @@ const Dashboard = () => {
           </div>
         </div>
 
-        <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-4">
+        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
           {stats.map((item) => {
             const Icon = item.icon;
 
@@ -146,7 +146,7 @@ const Dashboard = () => {
             </span>
           </div>
 
-          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 md:grid-cols-4 xl:grid-cols-8">
+          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-8">
             {menu.map((item) => {
               const Icon = item.icon;
 
@@ -187,8 +187,8 @@ const Dashboard = () => {
             </button>
           </div>
 
-          <div className="hidden overflow-x-auto sm:block">
-            <table className="w-full min-w-155 text-left">
+          <div className="hidden overflow-x-auto md:block">
+            <table className="w-full min-w-[760px] text-left">
               <thead>
                 <tr className="border-b border-slate-200 text-sm text-slate-500">
                   <th className="px-3 py-3 font-medium">Order ID</th>
@@ -231,7 +231,7 @@ const Dashboard = () => {
             </table>
           </div>
 
-          <div className="space-y-3 sm:hidden">
+          <div className="space-y-3 md:hidden">
             {orders.map((order) => (
               <div
                 key={order.id}
